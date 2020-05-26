@@ -110,9 +110,9 @@ namespace Switch
                     Console.WriteLine("Ingrese el segundo numero");
                     nUm2 = int.Parse(Console.ReadLine());
 
-                    if (nUm1 > nUm2) Console.WriteLine("El primer numero es el mayor");
+                    if (nUm1 > nUm2) Console.WriteLine("El numero {0} es el mayor" , nUm1);
 
-                    else Console.WriteLine("El segundo numero es el mayor ");
+                    else Console.WriteLine("El numero {0} numero es el mayor ", nUm2);
                     break;
 
                 case 4:
