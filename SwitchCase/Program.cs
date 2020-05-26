@@ -293,6 +293,10 @@ namespace Switch
                         Console.WriteLine("El producto de multiplicar cualquier numero por 0 es 0");
                     }
                     break;
+                   
+                default:
+                    Console.WriteLine("El valor ingresado no es correcto , por favor ingrese un numero entre el 1 y el 9");
+                    break;
             }
             
         }
