@@ -1,0 +1,13 @@
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csprojAssemblyReference.cache
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\Edward Frias\source\repos\SwitchCaseSolucion\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache
