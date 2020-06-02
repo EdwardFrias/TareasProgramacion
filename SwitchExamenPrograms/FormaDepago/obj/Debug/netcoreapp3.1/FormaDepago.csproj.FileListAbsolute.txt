@@ -1,0 +1,13 @@
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\bin\Debug\netcoreapp3.1\FormaDepago.exe
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\bin\Debug\netcoreapp3.1\FormaDepago.deps.json
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\bin\Debug\netcoreapp3.1\FormaDepago.runtimeconfig.json
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\bin\Debug\netcoreapp3.1\FormaDepago.runtimeconfig.dev.json
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\bin\Debug\netcoreapp3.1\FormaDepago.dll
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\bin\Debug\netcoreapp3.1\FormaDepago.pdb
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\obj\Debug\netcoreapp3.1\FormaDepago.csprojAssemblyReference.cache
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\obj\Debug\netcoreapp3.1\FormaDepago.csproj.CoreCompileInputs.cache
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\obj\Debug\netcoreapp3.1\FormaDepago.AssemblyInfoInputs.cache
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\obj\Debug\netcoreapp3.1\FormaDepago.AssemblyInfo.cs
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\obj\Debug\netcoreapp3.1\FormaDepago.dll
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\obj\Debug\netcoreapp3.1\FormaDepago.pdb
+C:\Users\Edward Frias\Desktop\FormaDepagoSolucion\FormaDepago\obj\Debug\netcoreapp3.1\FormaDepago.genruntimeconfig.cache
