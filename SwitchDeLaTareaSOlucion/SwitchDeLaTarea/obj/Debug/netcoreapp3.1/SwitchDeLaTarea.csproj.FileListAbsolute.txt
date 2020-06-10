@@ -1,0 +1,13 @@
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\obj\Debug\netcoreapp3.1\SwitchDeLaTarea.csprojAssemblyReference.cache
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\obj\Debug\netcoreapp3.1\SwitchDeLaTarea.csproj.CoreCompileInputs.cache
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\obj\Debug\netcoreapp3.1\SwitchDeLaTarea.AssemblyInfoInputs.cache
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\obj\Debug\netcoreapp3.1\SwitchDeLaTarea.AssemblyInfo.cs
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\bin\Debug\netcoreapp3.1\SwitchDeLaTarea.exe
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\bin\Debug\netcoreapp3.1\SwitchDeLaTarea.deps.json
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\bin\Debug\netcoreapp3.1\SwitchDeLaTarea.runtimeconfig.json
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\bin\Debug\netcoreapp3.1\SwitchDeLaTarea.runtimeconfig.dev.json
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\bin\Debug\netcoreapp3.1\SwitchDeLaTarea.dll
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\bin\Debug\netcoreapp3.1\SwitchDeLaTarea.pdb
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\obj\Debug\netcoreapp3.1\SwitchDeLaTarea.dll
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\obj\Debug\netcoreapp3.1\SwitchDeLaTarea.pdb
+C:\Users\Edward Frias\Desktop\SwitchDeLaTareaSOlucion\SwitchDeLaTarea\obj\Debug\netcoreapp3.1\SwitchDeLaTarea.genruntimeconfig.cache
