@@ -1,0 +1,13 @@
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\bin\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.exe
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\bin\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.deps.json
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\bin\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.runtimeconfig.json
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\bin\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.runtimeconfig.dev.json
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\bin\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.dll
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\bin\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.pdb
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\obj\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.csprojAssemblyReference.cache
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\obj\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.csproj.CoreCompileInputs.cache
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\obj\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.AssemblyInfoInputs.cache
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\obj\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.AssemblyInfo.cs
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\obj\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.dll
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\obj\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.pdb
+C:\Users\Edward Frias\Desktop\SwitchTareaDelDia15DeJunioSolucion\SwitchTareaDelDia15DeJunio\obj\Debug\netcoreapp3.1\SwitchTareaDelDia15DeJunio.genruntimeconfig.cache
