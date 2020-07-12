@@ -1,0 +1,13 @@
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\bin\Debug\netcoreapp3.1\ParcialDeVotacione.exe
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\bin\Debug\netcoreapp3.1\ParcialDeVotacione.deps.json
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\bin\Debug\netcoreapp3.1\ParcialDeVotacione.runtimeconfig.json
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\bin\Debug\netcoreapp3.1\ParcialDeVotacione.runtimeconfig.dev.json
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\bin\Debug\netcoreapp3.1\ParcialDeVotacione.dll
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\bin\Debug\netcoreapp3.1\ParcialDeVotacione.pdb
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\obj\Debug\netcoreapp3.1\ParcialDeVotacione.csprojAssemblyReference.cache
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\obj\Debug\netcoreapp3.1\ParcialDeVotacione.csproj.CoreCompileInputs.cache
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\obj\Debug\netcoreapp3.1\ParcialDeVotacione.AssemblyInfoInputs.cache
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\obj\Debug\netcoreapp3.1\ParcialDeVotacione.AssemblyInfo.cs
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\obj\Debug\netcoreapp3.1\ParcialDeVotacione.dll
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\obj\Debug\netcoreapp3.1\ParcialDeVotacione.pdb
+C:\Users\Edward Frias\Desktop\ParcialDeVotacione\ParcialDeVotacione\obj\Debug\netcoreapp3.1\ParcialDeVotacione.genruntimeconfig.cache
