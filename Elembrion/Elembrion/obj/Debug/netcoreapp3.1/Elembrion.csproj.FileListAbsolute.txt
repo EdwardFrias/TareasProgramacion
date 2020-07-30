@@ -1,0 +1,13 @@
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\obj\Debug\netcoreapp3.1\Elembrion.csprojAssemblyReference.cache
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\obj\Debug\netcoreapp3.1\Elembrion.csproj.CoreCompileInputs.cache
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\obj\Debug\netcoreapp3.1\Elembrion.AssemblyInfoInputs.cache
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\obj\Debug\netcoreapp3.1\Elembrion.AssemblyInfo.cs
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\bin\Debug\netcoreapp3.1\Elembrion.exe
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\bin\Debug\netcoreapp3.1\Elembrion.deps.json
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\bin\Debug\netcoreapp3.1\Elembrion.runtimeconfig.json
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\bin\Debug\netcoreapp3.1\Elembrion.runtimeconfig.dev.json
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\bin\Debug\netcoreapp3.1\Elembrion.dll
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\bin\Debug\netcoreapp3.1\Elembrion.pdb
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\obj\Debug\netcoreapp3.1\Elembrion.dll
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\obj\Debug\netcoreapp3.1\Elembrion.pdb
+C:\Users\Edward Frias\Desktop\Elembrion\Elembrion\obj\Debug\netcoreapp3.1\Elembrion.genruntimeconfig.cache
